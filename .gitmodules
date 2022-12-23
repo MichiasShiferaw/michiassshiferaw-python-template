@@ -1,0 +1,3 @@
+[submodule "michiassshiferaw-python-template"]
+	path = python
+	url = https://github.com/MichiasShiferaw/michiassshiferaw-python-template.git
